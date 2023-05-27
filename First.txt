@@ -5,6 +5,10 @@ adding new line on 2205 0830
 adding line after stage
 Pushing file
 adding this line from local repo
+<<<<<<< HEAD
 
 
 adding second line of code -local repo
+=======
+adding new feature
+>>>>>>> 44cc51de45f0ae901ece58348ed3d15149aab2aa
