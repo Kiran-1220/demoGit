@@ -6,4 +6,4 @@ adding line after stage
 Pushing file
 adding this line from local repo
 adding new feature
-adding condition of feature
+adding condition of feature - locally
